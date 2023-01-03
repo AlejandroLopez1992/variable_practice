@@ -9,3 +9,7 @@ children = 0
 money spent = 40.60
 monthly income = 600.45
 current weight = 142.5
+
+happy = true
+door closed = false
+money paid = true
