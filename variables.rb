@@ -1,4 +1,7 @@
 items = "waterbottle"
+items # "waterbottle"
+items = "keyboard"
+
 pet = "cat"
 clothes = "Shirt"
 
@@ -13,3 +16,5 @@ current weight = 142.5
 happy = true
 door closed = false
 money paid = true
+
+puts "I have a #{items}"
