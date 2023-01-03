@@ -3,18 +3,26 @@ items # "waterbottle"
 items = "keyboard"
 
 pet = "cat"
-clothes = "Shirt"
+pet # "cat"
+pet = "dog"
 
-current age = 30
-year born = 1992
+clothes = "Shirt"
+clothes # "Shirt"
+clothes = "jacket"
+
+age = 30
+year_born = 1992
 children = 0
 
-money spent = 40.60
-monthly income = 600.45
-current weight = 142.5
+money_spent = 40.60
+monthly_income = 600.45
+weight = 142.5
 
 happy = true
-door closed = false
-money paid = true
+door_closed = false
+money_paid = true
 
 puts "I have a #{items}"
+puts "My pet is a #{pet}"
+puts "I am currently #{age} years old"
+puts "Is the door closed?. #{door_closed}"
